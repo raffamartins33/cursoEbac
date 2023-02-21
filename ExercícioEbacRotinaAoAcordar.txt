@@ -1,0 +1,29 @@
+RotinaAoAcordar
+
+1-abre os olhos
+2-levanta da cama
+3-desligo o ar condicionado
+4-pego a toalha no gancho 
+5-vou ao banheiro
+ 1-abro a porta e entro
+ 2-ligo o chuveiro
+ 3-me molho
+ 4-passo sabonete e shampoo
+ 5-me molhonovamente 
+ 6-desligo o chuveiro
+ 7-me enxugo
+ 8-saio do banheiro
+8-coloco a toalha no lugar que peguei
+9-visto a roupa para ir trabalhar
+ 1-pego uma camisa e visto
+ 2-pego uma calça e visto
+ 3-sento e calço o sapato
+ 4-passo desodorante e permufe
+ 5-sigo em direção a porta
+10 na porta
+ 1-verifico se esta fechada ou aberta
+ 2-porta fechada
+  2.1-giro a chave para abrir
+ 3-porta aberta
+  3.1-giro a maceneta e abro a porta
+4-saio,fecho a porta e vou caminhando em direção ao trabalho
